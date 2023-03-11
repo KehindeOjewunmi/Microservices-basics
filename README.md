@@ -22,3 +22,7 @@ Some of the challenges faced by microservices are:
   - complexity in management
   - complex security risk
   - ripple effect of impactful changes
+  - multiple point of failure
+  - latency dependent
+
+

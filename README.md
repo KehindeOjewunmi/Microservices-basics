@@ -17,3 +17,8 @@ Among several benefits of microservices are:
   - fault isolation
   - segregated functionality
   - segregated scaling
+
+Some of the challenges faced by microservices are:
+  - complexity in management
+  - complex security risk
+  - ripple effect of impactful changes
